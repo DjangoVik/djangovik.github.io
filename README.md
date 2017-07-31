@@ -1,2 +1,3 @@
 # djangovik.github.io
-Test page
+World Cosmetics
+Dev version
